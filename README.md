@@ -6,8 +6,6 @@
 
 ![image](https://raw.githubusercontent.com/nethorse/aibays/master/p1.png)
 
-![这是张图片](/path/to/im)
-
 
 ### Support or Contact
 
