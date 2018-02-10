@@ -1,37 +1,16 @@
 智能管材计数管理系统
 
-You can use the [editor on GitHub](https://github.com/nethorse/aibays/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+本设备在移动操作系统上实现⾃主研发的计算机视觉技术和数据库管理⽅案，可实时准确⽅便的统计管材数⽬和后续管理，操作简单，便于携带，可极减轻物料管理员的负担，显著提高工作效率。
+识别结果正确率在理想拍照情况下可达100%，在相当程度上能减少传统计数法带来的物料统计误差损耗。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![image]p1.png
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nethorse/aibays/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+公司介绍 
+AiBays Inc (埃贝斯） 
+是一家总部位于美国硅谷的高科技公司，主要从事先进的数字图像和视频处理，计算机视觉以及人工智能的研发及在不同领域应用，拥有自主知识产权的关键算法和技术。中国分公司位于武汉光谷软件园。
