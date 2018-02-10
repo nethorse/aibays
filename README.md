@@ -4,7 +4,7 @@
 识别结果正确率在理想拍照情况下可达100%，在相当程度上能减少传统计数法带来的物料统计误差损耗。
 
 
-![image]p1.png
+![image]https://github.com/nethorse/aibays/blob/master/p1.png
 
 
 ### Support or Contact
